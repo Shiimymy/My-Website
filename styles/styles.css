@@ -1,0 +1,14 @@
+body {
+    background: rgb(130, 246, 207);
+    font-family: 'Noto Sans', sans-serif;
+    color: rgb(26, 130, 221);
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: tan;
+    font-size: 100px;
+}
